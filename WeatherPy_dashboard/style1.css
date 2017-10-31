@@ -1,0 +1,37 @@
+.portfolio {
+    margin-left: 25px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+.values {
+    font-weight: bold;
+}
+
+.user-block {
+    padding-bottom: 30px;
+}
+
+.image-row {
+    padding-bottom: 10px;
+}
+
+
+.a.navbar-brand.navbrand {
+	background-color: #3182bd;
+	margin-left: 20px;
+	color: lightskyblue;
+}
+.whitebackground {
+    background-color: white;
+}
+.h1,h2,h3 {
+    color: lightskyblue;
+}
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
