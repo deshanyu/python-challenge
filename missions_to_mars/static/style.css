@@ -1,18 +1,4 @@
-.blueLine {
-    color: blue;
-}
 
-.greenLine {
-    color: green;
-}
-
-.boldLine {
-    font-weight: bold;
-}
-
-.smallFont {
-    font-size: 12px;
-}
 
 .borderbox {
     border-width: 1px;
@@ -21,18 +7,7 @@
     padding: 2px;
 }
 
-.frog1 {
-    width: 15%;
-    float: left;
-}
 
-.frog {
-    width: 15%;
-    padding-left: 20px;
-}
-.redline {
-    color: red;
-}
 
 .text {
     float: left;

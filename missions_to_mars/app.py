@@ -22,7 +22,7 @@ def scrape():
         mars_data,
         upsert=True
     )
-    return index()
+    return "Scraped successfully!"
 
 
 if __name__ == "__main__":
